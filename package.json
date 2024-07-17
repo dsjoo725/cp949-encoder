@@ -1,7 +1,7 @@
 {
   "name": "cp949-encoder",
   "description": "Encodes a string using code page 949",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/dsjoo725/cp949-encoder.git"
